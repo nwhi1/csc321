@@ -18,6 +18,6 @@ for i in range(5):
 x = 0
 while x < 5:
     x += 1
-    print("IM PRINTING USING WHILE LOOP")
+    print("I love pizza")
 
 
